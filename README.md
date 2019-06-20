@@ -9,4 +9,4 @@ it allows to reduce a link, just paste the long URL and click the Shorten URL bu
 You can copy the shortened URL and share it on publications, mails, blogs, forums...  
 
 
-![](short_url.png)
+![](short_url.PNG)
